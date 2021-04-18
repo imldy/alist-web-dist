@@ -8,6 +8,10 @@
 
 1Mbps服务器修改前初次访问大约需要15-20秒，修改后仅需1.5-2秒，为之前的十分之一（1.0.3版本）。
 
+## 如何使用
+
+[下载](https://cdn.jsdelivr.net/gh/imldy/alist-web-dist@main/index.html)`index.html`文件，并替换你原来的`index.html`
+
 ## 修改的静态资源
 
 `index.html`文件中
