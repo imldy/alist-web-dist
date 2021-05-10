@@ -16,10 +16,12 @@
 
 `index.html`文件中
 
-| 原地址                                 | 修改后地址                                                   |
-| -------------------------------------- | ------------------------------------------------------------ |
-| /static/css/chunk-vendors.8f913079.css | https://cdn.jsdelivr.net/gh/imldy/alist-web-dist@main/static/css/chunk-vendors.8f913079.css |
-| /static/js/chunk-vendors.131f0f41.js   | https://cdn.jsdelivr.net/gh/imldy/alist-web-dist@main/static/js/chunk-vendors.131f0f41.js |
+| 原地址                                   | 修改后地址                                                   |
+| ---------------------------------------- | ------------------------------------------------------------ |
+| `/static/css/chunk-vendors.8f913079.css` | `https://cdn.jsdelivr.net/gh/imldy/alist-web-dist@<version>/static/css/chunk-vendors.8f913079.css` |
+| `/static/js/chunk-vendors.131f0f41.js`   | `https://cdn.jsdelivr.net/gh/imldy/alist-web-dist@<version>/static/js/chunk-vendors.131f0f41.js` |
+
+实际文件名根据版本不同有部分差别，但url的前面部分一致。
 
 ## 感谢
 
